@@ -580,10 +580,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@sonlamtickets/common@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@sonlamtickets/common/-/common-1.0.7.tgz#300db1347ef7e9d343aec2f5ac07424546ebabbd"
-  integrity sha512-POnR21VePKS+uCTwqVDM3DNvxwV7KW86RhLY4Ot/XWfW2UIbwS9yyvT40PObkq8W+R0UsyjjUN7H2ufoT5+8OQ==
+"@sonlamtickets/common@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@sonlamtickets/common/-/common-1.0.8.tgz#9d17954a67311b7ee97da2f7e7d43f6d5b5ac7d1"
+  integrity sha512-Wv6VNfrZ4CDdGqroFuMj8iUO3Nb6Oki5VqPewRYWA21/GRofwf5823iXuTIvBZTGMKKJtPUL2ghkVsbAmV46cw==
   dependencies:
     "@types/cookie-session" "^2.0.44"
     "@types/express" "^4.17.13"
