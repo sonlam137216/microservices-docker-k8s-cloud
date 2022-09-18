@@ -11,6 +11,7 @@ build:
     projectId: ticketing-dev-362208
   artifacts:
     - image: asia.gcr.io/ticketing-dev-362208/auth
+      # - image: sonlamchickdev/auth
       context: auth
       docker:
         dockerfile: Dockerfile
@@ -19,6 +20,7 @@ build:
           - src: 'src/**/*.ts'
             dest: .
     - image: asia.gcr.io/ticketing-dev-362208/tickets
+      # - image: sonlamchickdev/tickets
       context: tickets
       docker:
         dockerfile: Dockerfile
